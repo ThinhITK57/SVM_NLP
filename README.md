@@ -1,1 +1,2 @@
-# SVM_NLP
+# SVM-NLP
+# 5 categories
